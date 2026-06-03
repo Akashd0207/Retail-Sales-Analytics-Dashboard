@@ -46,7 +46,7 @@ Provides a comprehensive view of business performance through:
 * Profit contribution by category
 * Profit trend analysis over time
 
-![Sales Overview](Sales Overview.png)
+![Sales Overview](01_Sales%20Overview.png)
 
 ---
 
@@ -60,7 +60,7 @@ Key findings include:
 * Product attributes impacting sales performance
 * Comparative analysis of influential factors
 
-![Key Influencers](Key Influence.png)
+![Key Influencers](03_Key%20Influence.png)
 
 ---
 
@@ -75,8 +75,7 @@ Analysis includes:
 * Revenue by Customer Segments
 * Interactive hierarchical exploration
 
-![Decomposition Tree](Decomposition tree.png)
-
+![Decomposition Tree](02_Decomposition%20tree.png)
 ---
 
 ## Business Insights
